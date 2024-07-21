@@ -29,23 +29,23 @@ AdventureWorks 2022 - Instruções de Instalação e Configuração.
 
 ## Definindo as Tabelas e Colunas a Serem Usadas no Projeto
 ### Tabelas:
-FactInternetSales
-DimProductCategory
-DimCustomer
-DimGeography
+FactInternetSales<br/>
+DimProductCategory<br/>
+DimCustomer<br/>
+DimGeography<br/>
 
 ### Colunas:
-SalesOrderNumber (FactInternetSales)
-OrderDate (FactInternetSales)
-EnglishProductCategoryName (DimProductCategory)
-CustomerKey (DimCustomer)
-FirstName + ' ' + LastName (DimCustomer)
-Gender (DimCustomer)
-EnglishCountryRegionName (DimGeography)
-OrderQuantity (FactInternetSales)
-SalesAmount (FactInternetSales)
-TotalProductCost (FactInternetSales)
-SalesAmount - TotalProductCost (FactInternetSales)
+SalesOrderNumber (FactInternetSales)<br/>
+OrderDate (FactInternetSales)<br/>
+EnglishProductCategoryName (DimProductCategory)<br/>
+CustomerKey (DimCustomer)<br/>
+FirstName + ' ' + LastName (DimCustomer)<br/>
+Gender (DimCustomer)<br/>
+EnglishCountryRegionName (DimGeography)<br/>
+OrderQuantity (FactInternetSales)<br/>
+SalesAmount (FactInternetSales)<br/>
+TotalProductCost (FactInternetSales)<br/>
+SalesAmount - TotalProductCost (FactInternetSales)<br/>
 
 ## Criando a View  vw_AnaliseVendas
 Para facilitar a visualização dos dados no Power BI, será criada uma view chamada vw_AnaliseVendas:
@@ -103,10 +103,10 @@ INNER JOIN DimGeography dg ON dc.GeographyKey = dg.GeographyKey
 Para a correta análise dos dados, serão definidos relacionamentos entre as tabelas:
 
 ### Tabelas a Serem Analisadas:
-FactInternetSales
-DimCustomer
-DimSalesTerritory
-DimProductCategory
+FactInternetSales<br/>
+DimCustomer<br/>
+DimSalesTerritory<br/>
+DimProductCategory<br/>
 Nota: A tabela DimProductCategory necessitará de um relacionamento em cadeia com outras tabelas de produtos para garantir a integridade e a completude dos dados analisados.
 
 ## Relacionamentos Entre Tabelas

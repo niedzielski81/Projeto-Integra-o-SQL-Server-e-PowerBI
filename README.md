@@ -12,20 +12,20 @@ AdventureWorks 2022 - Instruções de Instalação e Configuração.
 ## Definindo os Indicadores do Projeto
 
 ### Aba Geral:
-1.Receita Total
-2.Quantidade Vendida
-3.Total de Categorias de Produtos
-4.Quantidade de Clientes
-5.Receita Total e Lucro Total por Mês
-6.Margem de Lucro
-7.Quantidade Vendida por Mês
-8.Lucro por País
+1.Receita Total<br/>
+2.Quantidade Vendida<br/>
+3.Total de Categorias de Produtos<br/>
+4.Quantidade de Clientes<br/>
+5.Receita Total e Lucro Total por Mês<br/>
+6.Margem de Lucro<br/>
+7.Quantidade Vendida por Mês<br/>
+8.Lucro por País<br/>
 
 ### Aba Clientes:
-1.Vendas por País
-2.Clientes por País
-3.Vendas por Gênero
-4.Vendas por Categoria
+1.Vendas por País<br/>
+2.Clientes por País<br/>
+3.Vendas por Gênero<br/>
+4.Vendas por Categoria<br/>
 
 ## Definindo as Tabelas e Colunas a Serem Usadas no Projeto
 ### Tabelas:

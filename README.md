@@ -165,17 +165,17 @@ Com os dados e medidas importados, é possível criar dashboards interativos no 
 Aqui estão algumas sugestões de visualizações para cada aba:
 
 ### Aba Geral:
-Gráfico de barras para Receita Total por Categoria de Produto.
-Gráfico de linhas para Receita Total e Lucro Total por Mês.
-Cartão para exibir a Quantidade de Clientes.
-Gráfico de barras para Quantidade Vendida por Mês.
-Mapa para visualizar o Lucro por País.
+Gráfico de barras para Receita Total por Categoria de Produto.<br/>
+Gráfico de linhas para Receita Total e Lucro Total por Mês.<br/>
+Cartão para exibir a Quantidade de Clientes.<br/>
+Gráfico de barras para Quantidade Vendida por Mês.<br/>
+Mapa para visualizar o Lucro por País.<br/>
 
 ### Aba Clientes:
-Mapa para exibir Vendas por País.
-Gráfico de barras empilhadas para Clientes por País.
-Gráfico de pizza para Vendas por Gênero.
-Gráfico de barras para Vendas por Categoria de Produto.
+Mapa para exibir Vendas por País.<br/>
+Gráfico de barras empilhadas para Clientes por País.<br/>
+Gráfico de pizza para Vendas por Gênero.<br/>
+Gráfico de barras para Vendas por Categoria de Produto.<br/>
 
 ## Considerações Finais
 O projeto de integração entre SQL Server e Power BI utilizando o banco de dados AdventureWorks 2022 visa fornecer uma solução completa para análise de dados de vendas e clientes. Através da definição de indicadores, criação de views, estabelecimento de relacionamentos e desenvolvimento de dashboards, é possível obter insights valiosos que podem auxiliar na tomada de decisões estratégicas para a organização.

@@ -182,7 +182,7 @@ Gráfico de rosca para Margem de Lucro.<br/>
 
 
 ### Aba Clientes:
-Dashboard Clientes.<br/>.<br/>
+Dashboard Clientes.<br/>
 ![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/DashBoard_tela2_Clientes.jpg)
 
 Mapa para exibir Vendas por País.<br/>

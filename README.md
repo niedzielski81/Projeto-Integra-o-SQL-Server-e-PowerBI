@@ -166,7 +166,7 @@ Aqui estão algumas sugestões de visualizações para cada aba:
 
 ### Aba Geral:
 Gráfico de barras para Receita Total por Categoria de Produto.<br/>
-![Texto Alternativo](https://1drv.ms/i/c/d18562d304357836/EWpvjgwpIhhHkU-8QDk6rQ0BZpBp4-NXbVsPmFDREW6S_Q?e=Bvj87r)
+![image](C:\Users\ricar\OneDrive\Imagens\Img)
 
 Gráfico de linhas para Receita Total e Lucro Total por Mês.<br/>
 

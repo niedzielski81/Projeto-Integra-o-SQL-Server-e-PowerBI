@@ -171,10 +171,10 @@ Dashboard Visão Geral.<br/>
 Gráfico de colunas para Receita Total e Gráfico de linha para Lucro Total por Mês.<br/>
 ![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/Grf%20Receita%20Total%20e%20Lucro%20Total%20por%20M%C3%AAs.jpg)
 
-Gráfico de colunas para Total Vendido por Mês.<br/>
+Gráfico de linha para Lucro Total por País.<br/>
 ![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/Grf%20Total%20Vendido%20por%20M%C3%AAs.jpg)
 
-Gráfico de linha para Lucro Total por País.<br/>
+Gráfico de barras para Total Vendido por Mês.<br/>
 ![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/Grf%20Lucro%20Total%20por%20Pa%C3%ADs.jpg)
 
 Gráfico de rosca para Margem de Lucro.<br/>

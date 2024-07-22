@@ -168,7 +168,7 @@ Aqui estão algumas sugestões de visualizações para cada aba:
 Dashboard Visão Geral.<br/>
 ![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/DashBoard_tela1_Vis%C3%A3o%20Geral.jpg)
 
-Gráfico de barras para Receita Total e Gráfico de linha para Lucro Total por Mês.<br/>
+Gráfico de colunas para Receita Total e Gráfico de linha para Lucro Total por Mês.<br/>
 ![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/Grf%20Receita%20Total%20e%20Lucro%20Total%20por%20M%C3%AAs.jpg)
 
 Gráfico de colunas para Total Vendido por Mês.<br/>

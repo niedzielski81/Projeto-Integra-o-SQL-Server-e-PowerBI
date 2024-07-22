@@ -165,25 +165,37 @@ Com os dados e medidas importados, é possível criar dashboards interativos no 
 Aqui estão algumas sugestões de visualizações para cada aba:
 
 ### Aba Geral:
-Gráfico de barras para Receita Total por Categoria de Produto.<br/>
+Dashboard Visão Geral.<br/>
 ![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/DashBoard_tela1_Vis%C3%A3o%20Geral.jpg)
 
-Gráfico de linhas para Receita Total e Lucro Total por Mês.<br/>
+Gráfico de barras para Receita Total e Gráfico de linha para Lucro Total por Mês.<br/>
+![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/Grf%20Receita%20Total%20e%20Lucro%20Total%20por%20M%C3%AAs.jpg)
 
-Cartão para exibir a Quantidade de Clientes.<br/>
+Gráfico de linha para Lucro Total por País.<br/>
+![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/Grf%20Total%20Vendido%20por%20M%C3%AAs.jpg)
 
-Gráfico de barras para Quantidade Vendida por Mês.<br/>
+Gráfico de colunas para TVendido por Mês.<br/>
+![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/Grf%20Lucro%20Total%20por%20Pa%C3%ADs.jpg)
 
-Mapa para visualizar o Lucro por País.<br/>
+Gráfico de rosca para Margem de Lucro.<br/>
+![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/Grf%20Margem%20de%20Lucro.jpg)
+
 
 ### Aba Clientes:
+Dashboard Clientes.<br/>.<br/>
+![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/DashBoard_tela2_Clientes.jpg)
+
 Mapa para exibir Vendas por País.<br/>
+![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/mapa%20Lucro%20por%20pa%C3%ADs.jpg)
 
-Gráfico de barras empilhadas para Clientes por País.<br/>
+Gráfico de colunas para Total de Clientes por País.<br/>
+![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/Grf%20Total%20de%20Clientes%20por%20Pa%C3%ADs.jpg)
 
-Gráfico de pizza para Vendas por Gênero.<br/>
+Gráfico de rosca para Total de Vendas por Gênero.<br/>
+![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/Grf%20Total%20Clientes%20por%20G%C3%AAnero.jpg)
 
-Gráfico de barras para Vendas por Categoria de Produto.<br/>
+Gráfico de barras para Total de Vendas por Categoria.<br/>
+![image](https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI/blob/main/Img/Grf%20Total%20de%20Vendas%20por%20Categoria.jpg)
 
 ## Considerações Finais
 O projeto de integração entre SQL Server e Power BI utilizando o banco de dados AdventureWorks 2022 visa fornecer uma solução completa para análise de dados de vendas e clientes.<br/> Através da definição de indicadores, criação de views, estabelecimento de relacionamentos e desenvolvimento de dashboards, é possível obter insights valiosos que podem auxiliar na tomada de decisões estratégicas para a organização.

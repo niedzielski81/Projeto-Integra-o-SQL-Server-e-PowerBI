@@ -199,3 +199,13 @@ Gráfico de barras para Total de Vendas por Categoria.<br/>
 
 ## Considerações Finais
 O projeto de integração entre SQL Server e Power BI utilizando o banco de dados AdventureWorks 2022 visa fornecer uma solução completa para análise de dados de vendas e clientes.<br/> Através da definição de indicadores, criação de views, estabelecimento de relacionamentos e desenvolvimento de dashboards, é possível obter insights valiosos que podem auxiliar na tomada de decisões estratégicas para a organização.
+
+## Como visualizar o código
+Clone o repositório:
+
+git clone https://github.com/niedzielski81/Projeto-Integra-o-SQL-Server-e-PowerBI.git
+
+Abra o projeto no seu editor de preferência.
+Siga as instruções no arquivo README para configurar o ambiente e executar as queries.
+Ao disponibilizar os códigos SQL e o dashboard, o seu portfólio GitHub se tornará uma ótima referência para as suas habilidades em SQL e análise de dados. 
+Boa sorte com sua apresentação!
